@@ -3,7 +3,7 @@
     "blockUi": true,
     "alwaysDoSetup": true,
     "message": {
-        "type": "DIALOG",
+        "type": "TOAST",
         "value": "Unable to continue, please contact team support!"
     }
 }
