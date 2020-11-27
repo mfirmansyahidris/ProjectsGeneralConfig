@@ -1,9 +1,9 @@
 {
     "baseUrl": "https://run.mocky.io/v3/",
-    "blockUi": true,
+    "blockUi": false,
     "alwaysDoSetup": true,
     "message": {
-        "type": "TOAST",
+        "type": "DIALOG",
         "value": "Unable to continue, please contact team support!"
     }
 }
