@@ -1,6 +1,6 @@
 {
     "baseUrl": "https://run.mocky.io/v3/",
-    "blockUi": false,
+    "blockUi": true,
     "alwaysDoSetup": true,
     "message": {
         "type": "DIALOG",
