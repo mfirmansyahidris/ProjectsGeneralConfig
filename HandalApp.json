@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://run.mocky.io/v3/",
+    "baseUrl": "http://103.247.9.103:6010/api/",
     "blockUi": false,
     "alwaysDoSetup": true,
     "message": {
