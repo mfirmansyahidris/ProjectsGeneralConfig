@@ -1,7 +1,7 @@
 {
     "baseUrl": "http://103.247.9.103:6010/api/",
-    "blockUi": false,
-    "alwaysDoSetup": false,
+    "blockUi": true,
+    "alwaysDoSetup": true,
     "message": {
         "type": "DIALOG",
         "value": "Unable to continue, please contact team support!"
